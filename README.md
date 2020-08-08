@@ -24,5 +24,5 @@ Make a weather app inspired by the beautiful designs made by [Olia Gozha](https:
 - Working with JSONs to parse them using the Dart convert package.
 - Handling exceptions in Dart using try/catch/throw.
 - Working with lifecycle of Stateful Widgets and override them.
-- Using the Geolocator package to get live location data for both iOS and Android (Note: it is a bad package because it reads location data slowly!)
+- Using the Geolocator package to get live location data for both iOS and Android (Note: it is a bad package because it reads user location slowly!)
 
